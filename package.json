@@ -1,29 +1,23 @@
 {
-  "name": "@stjohnd777/resteasy",
-  "version": "0.9.0",
-  "description": "easy rest framework",
+  "name": "easyrest",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/stjohnd777/resteasy.git"
+    "url": "git+https://github.com/stjohnd777/easyrest.git"
   },
-  "keywords": [
-    "REST",
-    "NODE",
-    "EXPRESS",
-    "API"
-  ],
   "author": "Daniel St. John",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stjohnd777/resteasy/issues"
+    "url": "https://github.com/stjohnd777/easyrest/issues"
   },
-  "homepage": "https://github.com/stjohnd777/resteasy#readme",
-  "dependencies": {
-    "express": "^4.17.3"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/stjohnd777/easyrest#readme"
 }
